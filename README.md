@@ -1,4 +1,4 @@
-# AC Migration to FreeIPA
+# AD Migration to FreeIPA
 
 
 Dependencies: 
